@@ -21,3 +21,5 @@ generateHTML.js
 * Node Modules Folder
 * One HTML Page
 * One PDF Page
+
+![Template Engine](/readme_image/capture.png)
